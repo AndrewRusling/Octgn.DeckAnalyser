@@ -1,4 +1,5 @@
 This is a plug in for the Octgn Deck Builder. 
+
 The plugin analyses your Warhammer 40K Conquest deck and updates the notes tab with the analysis.
 
 @@@@@ EXAMPLE OF NOTES PRODUCED @@@@@ 
