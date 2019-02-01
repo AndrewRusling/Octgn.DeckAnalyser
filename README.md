@@ -6,5 +6,5 @@ Installation
 
 1. Create a directory "Octgn.DeckAnalyser" in the Octgn plugins folder.
 	Note: This is usually found in "C:\Users\xxxxxxx\Documents\OCTGN\Plugins"
-2. Copy "Octgn.DeckAnalyser.dll" into the folder above.
+2. Copy "Installation\Octgn.DeckAnalyser.dll" into the folder above.
 3. Verify that you can see "Replace notes with WH40K Conquest deck analysis" as a new menu item within the Octgn Deck Builder.
